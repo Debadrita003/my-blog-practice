@@ -84,13 +84,4 @@ github-tutorial/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Built with [jdoodle.ai](https://jdoodle.ai)
-- Icons provided by [Lucide React](https://lucide.dev)
-- Images from [Unsplash](https://unsplash.com)
- 
